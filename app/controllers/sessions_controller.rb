@@ -1,6 +1,6 @@
-class SessionsController < ActionController::Base
+class SessionsController < ApplicationController
 
-  def index
+  def new
   end
 
 end
